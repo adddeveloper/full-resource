@@ -1,0 +1,44 @@
+[
+    {
+        "name": "first portfolio",
+        "url": "https://one-portfolio.netlify.app/",
+        "category": "portofolio",
+        "deployed": "January 29, 2022",
+        "description": "This is my fist portfolio. I made this right after I learnt HTML, and CSS."
+    },
+    {
+        "name": "crypto currency",
+        "url": "https://cctracker.netlify.app",
+        "category": "api",
+        "deployed": "March 19, 2022",
+        "description": "Crypto Currency tracker using a free API."
+    },
+    {
+        "name": "ip tracker",
+        "url": "https://what-ip.netlify.app",
+        "category": "api",
+        "deployed": "March 21, 2022",
+        "description": "IP tracker using a free API."
+    },
+    {
+        "name": "best APIs",
+        "url": "https://bestapis.netlify.app",
+        "category": "api",
+        "deployed": "April 5, 2022",
+        "description": "All public and appropriate Application Programming Interfaces."
+    },
+    {
+        "name": "leaf notes",
+        "url": "https://leafnotes.netlify.app",
+        "category": "other",
+        "deployed": "April 13, 2022",
+        "description": "Simple to use, notepad like, aplication for taking notes."
+    },
+    {
+        "name": "code base64",
+        "url": "https://codebase64.netlify.app",
+        "category": "other",
+        "deployed": "April 27, 2022",
+        "description": "Encode & Decode from and to base64."
+    }
+]
