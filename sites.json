@@ -51,8 +51,16 @@
         "name": "batch script",
         "url": "https://scriptbatch.netlify.app/",
         "img": true,
-        "category": ["other", "funny", "howto"],
+        "category": ["other", "funny", "how-to", "windows"],
         "deployed": "December 31, 2022",
         "description": "Learn simple batch scripts to meddle with someones computer."
+    },
+    {
+        "name": "How To Draw?",
+        "url": "https://draw-out.netlify.app/",
+        "img": true,
+        "category": ["other", "funny", "how-to", "drawing"],
+        "deployed": "January 15, 2023",
+        "description": "Learn how to draw from simple to very complex images on your device."
     }
 ]
