@@ -62,5 +62,13 @@
         "category": ["other", "funny", "how-to", "drawing"],
         "deployed": "January 15, 2023",
         "description": "Learn how to draw from simple to very complex images on your device."
+    },
+    {
+        "name": "Calculator",
+        "url": "https://crunch-numbers.netlify.app/",
+        "img": true,
+        "category": ["other", "math"],
+        "deployed": "January 15, 2023",
+        "description": "This is a basic calculator to do addition, Multiplication, and vice virsa."
     }
 ]
