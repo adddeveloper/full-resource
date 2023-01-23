@@ -1,5 +1,6 @@
 [
     {
+        "id": 0,
         "name": "first portfolio",
         "url": "https://one-portfolio.netlify.app/",
         "img": true,
@@ -8,6 +9,7 @@
         "description": "This is my fist portfolio. I made this right after I learnt HTML, and CSS."
     },
     {
+        "id": 1,
         "name": "crypto currency",
         "url": "https://cctracker.netlify.app",
         "img": true,
@@ -16,6 +18,7 @@
         "description": "Crypto Currency tracker using a free API."
     },
     {
+        "id": 2,
         "name": "ip tracker",
         "url": "https://what-ip.netlify.app",
         "img": true,
@@ -24,6 +27,7 @@
         "description": "IP tracker using a free API."
     },
     {
+        "id": 3,
         "name": "best APIs",
         "url": "https://bestapis.netlify.app",
         "img": true,
@@ -32,6 +36,7 @@
         "description": "All public and appropriate Application Programming Interfaces."
     },
     {
+        "id":   4,
         "name": "leaf notes",
         "url": "https://leafnotes.netlify.app",
         "img": true,
@@ -40,14 +45,25 @@
         "description": "Simple to use, notepad like, aplication for taking notes."
     },
     {
+        "id": 5,
         "name": "code base64",
         "url": "https://codebase64.netlify.app",
         "img": true,
-        "category": ["other"],
+        "category": ["other", "encryption"],
         "deployed": "April 27, 2022",
         "description": "Encode & Decode from and to base64."
     },
     {
+        "id": 6,
+        "name": "Compliments",
+        "url": "https://compliment.netlify.app/",
+        "img": true,
+        "category": ["other", "compliments", "kind"],
+        "deployed": "January 4, 2022",
+        "description": "This site gives you compliments. It works best when you are feeling low."
+    },
+    {
+        "id": 7,
         "name": "batch script",
         "url": "https://scriptbatch.netlify.app/",
         "img": true,
@@ -56,6 +72,7 @@
         "description": "Learn simple batch scripts to meddle with someones computer."
     },
     {
+        "id": 8,
         "name": "How To Draw?",
         "url": "https://draw-out.netlify.app/",
         "img": true,
@@ -64,6 +81,7 @@
         "description": "Learn how to draw from simple to very complex images on your device."
     },
     {
+        "id": 9,
         "name": "Calculator",
         "url": "https://crunch-numbers.netlify.app/",
         "img": true,
