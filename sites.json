@@ -90,12 +90,21 @@
         "description": "This is a basic calculator to do addition, multiplication, and vice virsa."
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "Sigma Quotes",
         "url": "https://sigma-quotes.netlify.app/",
         "img": true,
         "category": ["other", "sigma"],
         "deployed": "July 7, 2023",
         "description": "This is just a website about great peoples quotes."
+    },
+    {
+        "id": 11,
+        "name": "Drawing Board",
+        "url": "https://draw-board.netlify.app/",
+        "img": true,
+        "category": ["other", "drawing"],
+        "deployed": "July 7, 2023",
+        "description": "A website to draw or doodle and then save for later."
     }
 ]
