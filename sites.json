@@ -106,5 +106,14 @@
         "category": ["other", "drawing"],
         "deployed": "July 7, 2023",
         "description": "A website to draw or doodle and then save for later."
+    },
+    {
+        "id": 13,
+        "name": "Listen To Quran",
+        "url": "https://listen2quran.netlify.app/",
+        "img": true,
+        "category": ["other", "quran", "islam"],
+        "deployed": "July 22, 2023",
+        "description": "Listen to quran recited by As Sudais and other reciters."
     }
 ]
