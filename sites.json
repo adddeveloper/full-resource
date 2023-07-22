@@ -118,11 +118,11 @@
     },
     {
         "id": 12,
-        "name": "Listen To Quran",
+        "name": "Free Backgrounds",
         "url": "https://listen2quran.netlify.app/",
         "img": true,
         "category": ["other", "background"],
         "deployed": "July 22, 2023",
-        "description": "Listen to quran recited by As Sudais and other reciters."
+        "description": "Download free backgrounds/wallpapers for your device."
     }
 ]
