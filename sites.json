@@ -119,7 +119,7 @@
     {
         "id": 12,
         "name": "Free Backgrounds",
-        "url": "https://listen2quran.netlify.app/",
+        "url": "https://free-backgrounds.netlify.app/",
         "img": true,
         "category": ["other", "background"],
         "deployed": "July 22, 2023",
