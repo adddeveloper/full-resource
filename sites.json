@@ -124,5 +124,14 @@
         "category": ["other", "background"],
         "deployed": "July 22, 2023",
         "description": "Download free backgrounds/wallpapers for your device."
+    },
+    {
+        "id": 14,
+        "name": "Explore Emojis",
+        "url": "https://explore-emojis.netlify.app/",
+        "img": true,
+        "category": ["other", "emojis"],
+        "deployed": "July 23, 2023",
+        "description": "Uncover emoji meanings, express creatively! 🌟😊🐶🍕📱"
     }
 ]
