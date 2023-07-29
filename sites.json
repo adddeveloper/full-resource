@@ -135,12 +135,21 @@
         "description": "Uncover emoji meanings, express creatively! 🌟😊🐶🍕📱"
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "Image Flipper",
         "url": "https://image-flipper.netlify.app/",
         "img": true,
         "category": ["other", "image editor", "tools"],
-        "deployed": "July 29, 2023",
+        "deployed": "July 28, 2023",
         "description": "Image editing tool for flipping images."
+    },
+    {
+        "id": 16,
+        "name": "Image Cutter",
+        "url": "https://image-cutter.netlify.app/",
+        "img": true,
+        "category": ["other", "image editor", "tools"],
+        "deployed": "July 29, 2023",
+        "description": "Image editing tool for cutting images."
     }
 ]
