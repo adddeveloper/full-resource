@@ -151,5 +151,14 @@
         "category": ["other", "image editor", "tools"],
         "deployed": "July 29, 2023",
         "description": "Image editing tool for cutting images."
+    },
+    {
+        "id": 17,
+        "name": "Elite Resume Forge",
+        "url": "https://eliteresumeforge.netlify.app/",
+        "img": true,
+        "category": ["other", "resume", "tools"],
+        "deployed": "July 29, 2023",
+        "description": "Simple resume builder. Build resumes and get it generated as txt."
     }
 ]
