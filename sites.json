@@ -154,11 +154,20 @@
     },
     {
         "id": 17,
+        "name": "Youtube Video Downloader",
+        "url": "https://github.com/adddeveloper/youtube-downloader",
+        "img": true,
+        "category": ["other", "python", "youtube"],
+        "deployed": "August 7, 2023",
+        "description": "Download youtube videos as mp3 or mp4."
+    },
+    {
+        "id": 18,
         "name": "Elite Resume Forge",
         "url": "https://eliteresumeforge.netlify.app/",
         "img": true,
         "category": ["other", "resume", "tools"],
-        "deployed": "July 29, 2023",
+        "deployed": "August 8, 2023",
         "description": "Simple resume builder. Build resumes and get it generated as txt."
     }
 ]
