@@ -169,5 +169,14 @@
         "category": ["other", "resume", "tools"],
         "deployed": "August 8, 2023",
         "description": "Simple resume builder. Build resumes and get it generated as txt."
+    },
+    {
+        "id": 18,
+        "name": "QR Code Generator",
+        "url": "https://scanswiftly.netlify.app/",
+        "img": true,
+        "category": ["other", "qrcode", "qr code", "tools"],
+        "deployed": "August 21, 2023",
+        "description": "Simple QR code generator. Generates text and URLs into QR codes."
     }
 ]
