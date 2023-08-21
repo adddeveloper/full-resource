@@ -171,7 +171,7 @@
         "description": "Simple resume builder. Build resumes and get it generated as txt."
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "QR Code Generator",
         "url": "https://scanswiftly.netlify.app/",
         "img": true,
