@@ -181,7 +181,7 @@
     },
     {
         "id": 20,
-        "name": "Lorem Ipsum Generator",
+        "name": "Lorem Ispum Generator",
         "url": "https://lorem-ispum-generator.netlify.app/",
         "img": true,
         "category": ["other", "tools"],
