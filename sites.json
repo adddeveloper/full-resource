@@ -178,5 +178,14 @@
         "category": ["other", "qrcode", "qr code", "tools"],
         "deployed": "August 21, 2023",
         "description": "Simple QR code generator. Generates text and URLs into QR codes."
+    },
+    {
+        "id": 20,
+        "name": "Lorem Ipsum Generator",
+        "url": "https://lorem-ispum-generator.netlify.app/",
+        "img": true,
+        "category": ["other", "tools"],
+        "deployed": "September 1, 2023",
+        "description": "Generate lorem ispum with a little more control."
     }
 ]
